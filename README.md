@@ -1,7 +1,4 @@
-==============================
-  Posse Score
-  By Guns Goforth
-==============================
+=========== Posse Score By Guns Goforth  ==============================
 
 What is Posse Score?
 --------------------
