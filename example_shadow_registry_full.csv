@@ -1,0 +1,45 @@
+alias,full_name,sass_number,category,email
+Dusty Trail,William McAllister,10001,Cowboy,dusty.trail@mail.com
+Iron Sight,Robert Earl Stanton,10002,Cowboy,iron.sight@mail.com
+Brazos Bill,Kenneth Wayne Tucker,10003,Cowboy,brazos.bill@mail.com
+Cimarron Kid,Michael John Garrett,10004,Cowboy,cimarron.kid@mail.com
+Maverick Molly,Patricia Ann Russell,10005,Cowgirl,maverick.molly@mail.com
+Prairie Dawn,Linda Sue Palmer,10006,Cowgirl,prairie.dawn@mail.com
+Calico Kate,Nancy Jo Whitfield,10007,Cowgirl,calico.kate@mail.com
+Bonnie Six,Karen Beth Rollins,10008,Cowgirl,bonnie.six@mail.com
+Doc Leadslinger,James Wyatt Cooper,10009,Classic Cowboy,doc.lead@mail.com
+Tin Star,George Henry Wallace,10010,Classic Cowboy,tin.star@mail.com
+Rawhide Rex,Donald Gene Morrow,10011,Classic Cowboy,rawhide.rex@mail.com
+Drifter Dan,Harold Ray Sims,10012,Classic Cowboy,drifter.dan@mail.com
+Sidewinder Sam,Daniel Lee Morgan,10013,Gunfighter,sidewinder.sam@mail.com
+Two Gun Hank,Henry Clay Preston,10014,Gunfighter,twoguns@mail.com
+Leadville Luke,Steven Mark Hyatt,10015,Gunfighter,leadville.luke@mail.com
+Ambush Ace,Richard Dale Owens,10016,Gunfighter,ambush.ace@mail.com
+Iron Horse,Thomas Ray Dawson,10017,Senior,iron.horse@mail.com
+Sage Rider,Charles Edward Long,10018,Senior,sage.rider@mail.com
+Rimfire Rudy,Walter James Norris,10019,Senior,rimfire.rudy@mail.com
+Buckboard Ben,Arthur Lee Combs,10020,Senior,buckboard.ben@mail.com
+Pecos Belle,Sarah Jane Colton,10021,Lady Senior,pecos.belle@mail.com
+Silver Sage,Dorothy Ellen Price,10022,Lady Senior,silver.sage@mail.com
+Mesa Rose,Barbara Ann Fowler,10023,Lady Senior,mesa.rose@mail.com
+Canyon Jenny,Ruth Marie Dalton,10024,Lady Senior,canyon.jenny@mail.com
+Cactus Jack,Frank Albert Dixon,10025,Silver Senior,cactus.jack@mail.com
+Old Grizz,Raymond Paul Hicks,10026,Silver Senior,old.grizz@mail.com
+Whiskey Creek,Eugene Carl Webb,10027,Silver Senior,whiskey.creek@mail.com
+Lonesome Dove,Howard Dean Pratt,10028,Silver Senior,lonesome.dove@mail.com
+Sourdough Slim,Ernest Roy Kimball,10029,Elder Statesman,sourdough.slim@mail.com
+Pappy Colt,Floyd Vernon Greer,10030,Elder Statesman,pappy.colt@mail.com
+Frontier Fred,Ralph Alvin Sheets,10031,Elder Statesman,frontier.fred@mail.com
+Old Pueblo,Chester Miles Dunlap,10032,Elder Statesman,old.pueblo@mail.com
+Tombstone Tess,Elizabeth May Foster,10033,Duelist,tombstone.tess@mail.com
+Rattlesnake Pete,Gary Wayne Hendrix,10034,Duelist,rattlesnake.pete@mail.com
+Deadeye Doyle,Patrick James Kinney,10035,Duelist,deadeye.doyle@mail.com
+Quickdraw Quinn,Dennis Earl Crosby,10036,Duelist,quickdraw.quinn@mail.com
+Mustang Sally,Mary Louise Baker,10037,49er,mustang.sally@mail.com
+Gold Dust,Larry Gene Raines,10038,49er,gold.dust@mail.com
+Nugget Nick,Roger Dale Sutton,10039,49er,nugget.nick@mail.com
+Miner Mike,Jerry Don Blevins,10040,49er,miner.mike@mail.com
+Prairie Rose,Catherine Anne Hart,10041,Wrangler,prairie.rose@mail.com
+Badlands Bob,Ronald Keith Plummer,10042,Wrangler,badlands.bob@mail.com
+Tumbleweed Tom,Wayne Curtis Yates,10043,Wrangler,tumbleweed.tom@mail.com
+High Noon Hank,Billy Ray Odom,10044,Wrangler,high.noon@mail.com
